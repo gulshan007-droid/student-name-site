@@ -5,5 +5,5 @@ const age=+prompt("please enter your age")
 if(age>18){
     alert("you can drive")
 }else{
-    alert(`you have ${age-18} days left`)
+    alert(`you have ${18-age} days left to explore adventure`)
 }
